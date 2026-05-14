@@ -1,4 +1,4 @@
-const CACHE_NAME = "randomiser-cache-v1";
+const CACHE_NAME = "lunch-app-v1";
 
 const urlsToCache = [
   "./",
