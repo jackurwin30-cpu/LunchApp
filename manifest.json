@@ -1,0 +1,16 @@
+{
+  "name": "Lunch Maker App",
+  "short_name": "Lunch",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Offline randomiser app",
+  "icons": [
+    {
+      "src": "Hot Dog Logo.png",
+      "sizes": "2157x4872",
+      "type": "image/png"
+    }
+  ]
+}
